@@ -267,6 +267,33 @@ socket.on("up", () => {
   scrollBy(0, -100);
 });
 
+socket.on("home", () => {
+  mainPage();
+});
+
+socket.on("tvshow", () => {
+  window.location.assign("/index.html#tvShows");
+});
+
+socket.on("movies", () => {
+  window.location.assign("/index.html#movies");
+});
+
+socket.on("originals", () => {
+  window.location.assign("/index.html#originals");
+});
+
+socket.on("play", () => {
+  document.getElementById("player").click();
+  if (playVideo) {
+    playVideo();
+  }
+});
+
+let playVideo = null;
+let pauseVideo = null;
+let player = null;
+
 const searchButton = document.getElementById("search-button");
 
 const mainPage = () => {
@@ -286,21 +313,9 @@ logo.onclick = mainPage;
 const home = document.getElementById("home");
 home.onclick = mainPage;
 
-const chargeMovie = (src) => {
+const chargeMovie = () => {
   const mainContainer = document.querySelector(".main-container");
   mainContainer.innerHTML = "";
-  const iframe = document.createElement("iframe");
-  iframe.setAttribute("width", "560");
-  iframe.setAttribute("height", "315");
-  iframe.setAttribute("src", src);
-  iframe.setAttribute("title", "YouTube video player");
-  iframe.setAttribute("frameborder", "0");
-  iframe.setAttribute(
-    "allow",
-    "accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-  );
-  iframe.setAttribute("allowfullscreen", "true");
-  mainContainer.appendChild(iframe);
 };
 
 const createMovie = (src, alt, link) => {
@@ -335,9 +350,8 @@ const createSection = (title, value) => {
   div.setAttribute("class", "box");
   mainContainer.appendChild(h1);
   if (title == "Results") {
-    const filter = movies.filter(
-      (movie) => movie.alt,
-      movie.link.search(value) === -1 ? false : true
+    const filter = movies.filter((movie) =>
+      movie.alt.search(value) === -1 ? false : true
     );
     filter.forEach((movie) => {
       const a = createMovie(movie.src, movie.alt, movie.link);
@@ -407,6 +421,31 @@ let video = params.get("video");
 console.log(video);
 if (video) {
   chargeMovie(video);
+  function onYouTubeIframeAPIReady() {
+    player = new YT.Player("player", {
+      height: "390",
+      width: "640",
+      videoId: "M7lc1UVf-VE",
+      playerVars: {
+        autoplay: 1,
+        enablejsapi: 1,
+        playsinline: 1,
+      },
+      events: {
+        onReady: onPlayerReady,
+      },
+    });
+    function onPlayerReady(event) {
+      event.target.playVideo();
+    }
+
+    pauseVideo = () => {
+      player.pauseVideo();
+    };
+    playVideo = () => {
+      player.playVideo();
+    };
+  }
 } else {
   mainPage();
 }

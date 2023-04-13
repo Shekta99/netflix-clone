@@ -40,6 +40,26 @@ io.on("connection", (socket) => {
   socket.on("up", () => {
     socket.broadcast.emit("up");
   });
+
+  socket.on("home", () => {
+    socket.broadcast.emit("home");
+  });
+
+  socket.on("tvshow", () => {
+    socket.broadcast.emit("tvshow");
+  });
+
+  socket.on("movies", () => {
+    socket.broadcast.emit("movies");
+  });
+
+  socket.on("originals", () => {
+    socket.broadcast.emit("originals");
+  });
+
+  socket.on("play", () => {
+    socket.broadcast.emit("play");
+  });
 });
 
 server.listen(3000, () => {
