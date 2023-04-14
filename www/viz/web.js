@@ -1,6 +1,6 @@
 const movies = [
   {
-    src: "https://github.com/carlosavilae/Netflix-Clone/blob/master/img/t1.PNG?raw=true",
+    src: "https://github.com/Shekta99/netflix-clone/blob/main/public/Imagenes/criminalesalavista.png?raw=true",
     alt: "scary movie",
     link: "https://www.youtube.com/embed/VVWH9jJLGkE",
     section: "Popular on Netflix",
