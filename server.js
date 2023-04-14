@@ -60,6 +60,29 @@ io.on("connection", (socket) => {
   socket.on("play", () => {
     socket.broadcast.emit("play");
   });
+
+  socket.on("pause", () => {
+    socket.broadcast.emit("pause");
+  });
+
+  socket.on("subir_volume", () => {
+    socket.broadcast.emit("subir_volume");
+  });
+
+  socket.on("bajar_volume", () => {
+    socket.broadcast.emit("bajar_volume");
+  });
+
+  socket.on("mutear_volume", () => {
+    socket.broadcast.emit("mutear_volume");
+  });
+
+  socket.on("adelantar_video", () => {
+    socket.broadcast.emit("adelantar_video");
+  });
+  socket.on("retrasar_video", () => {
+    socket.broadcast.emit("retrasar_video");
+  });
 });
 
 server.listen(3000, () => {

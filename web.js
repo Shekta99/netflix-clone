@@ -290,9 +290,50 @@ socket.on("play", () => {
   }
 });
 
+socket.on("pause", () => {
+  if (pauseVideo) {
+    pauseVideo();
+  }
+});
+
+socket.on("subir_volume", () => {
+  if (subirVolume) {
+    subirVolume();
+  }
+});
+
+socket.on("bajar_volume", () => {
+  if (bajarVolume) {
+    bajarVolume();
+  }
+});
+
+socket.on("mutear_volume", () => {
+  if (mutearVolume) {
+    mutearVolume();
+  }
+});
+
+socket.on("adelantar_video", () => {
+  if (adelantarVideo) {
+    adelantarVideo();
+  }
+});
+
+socket.on("retrasar_video", () => {
+  if (retrasarVideo) {
+    retrasarVideo();
+  }
+});
+
 let playVideo = null;
 let pauseVideo = null;
 let player = null;
+let subirVolume = null;
+let bajarVolume = null;
+let mutearVolume = null;
+let adelantarVideo = null;
+let retrasarVideo = null;
 
 const searchButton = document.getElementById("search-button");
 
@@ -444,6 +485,32 @@ if (video) {
     };
     playVideo = () => {
       player.playVideo();
+    };
+
+    subirVolume = () => {
+      player.unMute();
+      volumen_actual = player.getVolume();
+      volumen_nuevo = volumen_actual + 10;
+      player.setVolume(volumen_nuevo);
+    };
+
+    bajarVolume = () => {
+      volumen_actual = player.getVolume();
+      volumen_nuevo = volumen_actual - 10;
+      player.setVolume(volumen_nuevo);
+    };
+    mutearVolume = () => {
+      player.mute();
+    };
+    adelantarVideo = () => {
+      tiempo_actual = player.getCurrentTime();
+      tiempo_nuevo = tiempo_actual + 15;
+      player.seekTo(tiempo_nuevo);
+    };
+    retrasarVideo = () => {
+      tiempo_actual = player.getCurrentTime();
+      tiempo_nuevo = tiempo_actual - 15;
+      player.seekTo(tiempo_nuevo);
     };
   }
 } else {
