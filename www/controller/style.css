@@ -135,6 +135,13 @@ header {
   transition: transform 0.3s;
 }
 
+.box a:focus {
+  transition: transform 0.3s;
+  -ms-transform: scale(1.4);
+  -webkit-transform: scale(1.4);
+  transform: scale(1.4);
+}
+
 .box a:hover {
   transition: transform 0.3s;
   -ms-transform: scale(1.4);
