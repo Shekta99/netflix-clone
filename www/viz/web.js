@@ -266,6 +266,7 @@ const chargeMovie = (video) => {
   const container = document.getElementById("main-container");
   const likeIcon = document.createElement("a");
   likeIcon.setAttribute("id", "like");
+  container.style = "text-align:center";
   const currentMovie = movies.filter((movie) => movie.link === video)[0];
   if (currentMovie.like) {
     likeIcon.innerHTML = "💖";

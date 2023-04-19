@@ -153,6 +153,11 @@ header {
   border-radius: 2px;
 }
 
+#player {
+  margin: auto;
+  display: block;
+}
+
 /* LINKS */
 .link {
   padding: 50px;
