@@ -435,11 +435,13 @@ let video = params.get("video");
 console.log(video);
 if (video) {
   chargeMovie(video);
+  console.log(video.split("/"));
+  const partes = video.split("/");
   function onYouTubeIframeAPIReady() {
     player = new YT.Player("player", {
       height: "390",
       width: "640",
-      videoId: "M7lc1UVf-VE",
+      videoId: partes[partes.length - 1],
       playerVars: {
         autoplay: 1,
         enablejsapi: 1,

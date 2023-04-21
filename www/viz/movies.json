@@ -1,299 +1,299 @@
 [
   {
-    "src": "https://github.com/Shekta99/netflix-clone/blob/main/public/Imagenes/criminalesalavista.png?raw=true",
+    "src": "/Imagenes/netflix/inception.jpeg",
     "alt": "scary movie",
     "link": "https://www.youtube.com/embed/VVWH9jJLGkE",
     "section": "Popular on Netflix",
     "like": true
   },
   {
-    "src": "https://github.com/carlosavilae/Netflix-Clone/blob/master/img/p2.PNG?raw=true",
-    "alt": "",
-    "link": "https://www.youtube.com/embed/VVWH9jJLGkE",
+    "src": "https://github.com/eliaschnitker/IMAGENES-UBICUOS.git/blob/master/murdermystery.png?raw=true",
+    "alt": "murder mystery",
+    "link": "https://www.youtube.com/embed/qn14qE7xCh4",
     "section": "Popular on Netflix",
     "like": false
   },
   {
-    "src": "https://github.com/carlosavilae/Netflix-Clone/blob/master/img/p3.PNG?raw=true",
-    "alt": "",
-    "link": "https://www.youtube.com/embed/VVWH9jJLGkE",
+    "src": "https://github.com/eliaschnitker/IMAGENES-UBICUOS.git/criminalesenelmar.jpeg?raw=true",
+    "alt": "murder mystery 2",
+    "link": "https://www.youtube.com/embed/r5TpT6ol-cw",
     "section": "Popular on Netflix",
     "like": false
   },
   {
-    "src": "https://github.com/carlosavilae/Netflix-Clone/blob/master/img/p4.PNG?raw=true",
-    "alt": "",
-    "link": "https://www.youtube.com/embed/VVWH9jJLGkE",
+    "src": "https://github.com/eliaschnitker/IMAGENES-UBICUOS.git/10razones.jpeg?raw=true",
+    "alt": "10 things i hate about you",
+    "link": "https://www.youtube.com/embed/0ExmWjuG1UM",
     "section": "Popular on Netflix",
     "like": false
   },
   {
-    "src": "https://github.com/carlosavilae/Netflix-Clone/blob/master/img/p5.PNG?raw=true",
-    "alt": "",
-    "link": "https://www.youtube.com/embed/VVWH9jJLGkE",
+    "src": "https://github.com/eliaschnitker/IMAGENES-UBICUOS.git/3metrossobreelcielo.webp?raw=true",
+    "alt": "3 meters above the sky",
+    "link": "https://www.youtube.com/embed/RV9L7ui9Cn8",
     "section": "Popular on Netflix",
     "like": false
   },
   {
-    "src": "https://github.com/carlosavilae/Netflix-Clone/blob/master/img/p6.PNG?raw=true",
-    "alt": "",
-    "link": "https://www.youtube.com/embed/VVWH9jJLGkE",
+    "src": "https://github.com/eliaschnitker/IMAGENES-UBICUOS.git/4latas.jpeg?raw=true",
+    "alt": "4 cans",
+    "link": "https://www.youtube.com/embed/Cyh1LpxnaxI",
     "section": "Popular on Netflix",
     "like": false
   },
   {
-    "src": "https://github.com/carlosavilae/Netflix-Clone/blob/master/img/p7.PNG?raw=true",
-    "alt": "",
-    "link": "https://www.youtube.com/embed/VVWH9jJLGkE",
+    "src": "https://github.com/eliaschnitker/IMAGENES-UBICUOS.git/500diasconella.jpeg?raw=true",
+    "alt": "500 days of summer",
+    "link": "https://www.youtube.com/embed/Mg2JD7HQr8g",
     "section": "Popular on Netflix",
     "like": false
   },
   {
-    "src": "https://github.com/carlosavilae/Netflix-Clone/blob/master/img/p2.PNG?raw=true",
-    "alt": "",
-    "link": "https://www.youtube.com/embed/VVWH9jJLGkE",
+    "src": "https://github.com/eliaschnitker/IMAGENES-UBICUOS.git/barbie.jpeg?raw=true",
+    "alt": "barbie",
+    "link": "https://www.youtube.com/embed/Cyh1LpxnaxI",
     "section": "Popular on Netflix",
     "like": false
   },
   {
-    "src": "https://github.com/carlosavilae/Netflix-Clone/blob/master/img/p2.PNG?raw=true",
-    "alt": "",
-    "link": "https://www.youtube.com/embed/VVWH9jJLGkE",
+    "src": "https://github.com/eliaschnitker/IMAGENES-UBICUOS.git/cadenaperpetua.jpeg?raw=true",
+    "alt": "the shawshank redemption",
+    "link": "https://www.youtube.com/embed/Mg2JD7HQr8g",
     "section": "Popular on Netflix",
     "like": false
   },
   {
-    "src": "https://github.com/carlosavilae/Netflix-Clone/blob/master/img/p2.PNG?raw=true",
-    "alt": "",
-    "link": "https://www.youtube.com/embed/VVWH9jJLGkE",
+    "src": "https://github.com/eliaschnitker/IMAGENES-UBICUOS.git/casablanca.jpeg?raw=true",
+    "alt": "casablanca",
+    "link": "https://www.youtube.com/embed/ygUHhImN98w",
     "section": "Popular on Netflix",
     "like": false
   },
   {
-    "src": "https://github.com/carlosavilae/Netflix-Clone/blob/master/img/p2.PNG?raw=true",
-    "alt": "",
-    "link": "https://www.youtube.com/embed/VVWH9jJLGkE",
+    "src": "https://github.com/eliaschnitker/IMAGENES-UBICUOS.git/coco.jpeg?raw=true",
+    "alt": "coco",
+    "link": "https://www.youtube.com/embed/aRzBK6YguVY",
     "section": "Popular on Netflix",
     "like": false
   },
   {
-    "src": "https://github.com/carlosavilae/Netflix-Clone/blob/master/img/p2.PNG?raw=true",
-    "alt": "",
-    "link": "https://www.youtube.com/embed/VVWH9jJLGkE",
+    "src": "https://github.com/eliaschnitker/IMAGENES-UBICUOS.git/forrestgump.jpeg?raw=true",
+    "alt": "forrest gump",
+    "link": "https://www.youtube.com/embed/4u87tmlj4oE",
     "section": "Popular on Netflix",
     "like": false
   },
 
   {
-    "src": "https://github.com/carlosavilae/Netflix-Clone/blob/master/img/p2.PNG?raw=true",
-    "alt": "",
-    "link": "https://www.youtube.com/embed/VVWH9jJLGkE",
+    "src": "https://github.com/eliaschnitker/IMAGENES-UBICUOS.git/joker.jpeg?raw=true",
+    "alt": "joker",
+    "link": "https://www.youtube.com/embed/4LmIS8XFbrM",
     "section": "Trending Now",
     "like": false
   },
   {
-    "src": "https://github.com/carlosavilae/Netflix-Clone/blob/master/img/p2.PNG?raw=true",
-    "alt": "",
-    "link": "https://www.youtube.com/embed/VVWH9jJLGkE",
+    "src": "https://github.com/eliaschnitker/IMAGENES-UBICUOS.git/ladybir.jpeg?raw=true",
+    "alt": "lady bird",
+    "link": "https://www.youtube.com/embed/b-wEibP-xLE",
     "section": "Trending Now",
     "like": false
   },
   {
-    "src": "https://github.com/carlosavilae/Netflix-Clone/blob/master/img/p2.PNG?raw=true",
-    "alt": "",
-    "link": "https://www.youtube.com/embed/VVWH9jJLGkE",
+    "src": "https://github.com/eliaschnitker/IMAGENES-UBICUOS.git/malefica.jpeg?raw=true",
+    "alt": "malefique",
+    "link": "https://www.youtube.com/embed/nqlROp1TIgo",
     "section": "Trending Now",
     "like": false
   },
   {
-    "src": "https://github.com/carlosavilae/Netflix-Clone/blob/master/img/p2.PNG?raw=true",
-    "alt": "",
-    "link": "https://www.youtube.com/embed/VVWH9jJLGkE",
+    "src": "https://github.com/eliaschnitker/IMAGENES-UBICUOS.git/mammamia.jpeg?raw=true",
+    "alt": "mamma mia",
+    "link": "https://www.youtube.com/embed/cNi_HC839Wo",
     "section": "Trending Now",
     "like": false
   },
   {
-    "src": "https://github.com/carlosavilae/Netflix-Clone/blob/master/img/p2.PNG?raw=true",
-    "alt": "",
-    "link": "https://www.youtube.com/embed/VVWH9jJLGkE",
+    "src": "https://github.com/eliaschnitker/IMAGENES-UBICUOS.git/nemo.jpeg?raw=true",
+    "alt": "nemo",
+    "link": "https://www.youtube.com/embed/nWiQodhMvz4",
     "section": "Trending Now",
     "like": false
   },
   {
-    "src": "https://github.com/carlosavilae/Netflix-Clone/blob/master/img/p2.PNG?raw=true",
-    "alt": "",
-    "link": "https://www.youtube.com/embed/VVWH9jJLGkE",
+    "src": "https://github.com/eliaschnitker/IMAGENES-UBICUOS.git/perderaunchico.jpeg?raw=true",
+    "alt": "how to lose a guy in 10 days",
+    "link": "https://www.youtube.com/embed/HOYZ2N7F4z0",
     "section": "Trending Now",
     "like": false
   },
 
   {
-    "src": "https://github.com/carlosavilae/Netflix-Clone/blob/master/img/p2.PNG?raw=true",
-    "alt": "",
-    "link": "https://www.youtube.com/embed/VVWH9jJLGkE",
+    "src": "https://github.com/eliaschnitker/IMAGENES-UBICUOS.git/dahmer.jpeg?raw=true",
+    "alt": "dahmer",
+    "link": "https://www.youtube.com/embed/mlX7tD_0Fj8",
+    "section": "TV Shows",
+    "like": false
+  },
+  {
+    "src": "https://github.com/eliaschnitker/IMAGENES-UBICUOS.git/13razones.jpeg?raw=true",
+    "alt": "13 reasons why",
+    "link": "https://www.youtube.com/embed/NcqiH-Z_a4A",
+    "section": "TV Shows",
+    "like": false
+  },
+  {
+    "src": "https://github.com/eliaschnitker/IMAGENES-UBICUOS.git/elbarco.webp?raw=true",
+    "alt": "elite",
+    "link": "https://www.youtube.com/embed/5wdqbGpgZNU",
+    "section": "TV Shows",
+    "like": false
+  },
+  {
+    "src": "https://github.com/eliaschnitker/IMAGENES-UBICUOS.git/elinternado.jpeg?raw=true",
+    "alt": "glee",
+    "link": "https://www.youtube.com/embed/LtEvTE0fBjE",
+    "section": "TV Shows",
+    "like": false
+  },
+  {
+    "src": "https://github.com/eliaschnitker/IMAGENES-UBICUOS.git/elite.jpeg?raw=true",
+    "alt": "hannah montana",
+    "link": "https://www.youtube.com/embed/taDT59MHnrE",
+    "section": "TV Shows",
+    "like": false
+  },
+  {
+    "src": "https://github.com/eliaschnitker/IMAGENES-UBICUOS.git/fyq.jpeg?raw=true",
+    "alt": "heartstopper",
+    "link": "https://www.youtube.com/embed/fygAeAjK78Y",
+    "section": "TV Shows",
+    "like": false
+  },
+  {
+    "src": "https://github.com/eliaschnitker/IMAGENES-UBICUOS.git/glee.jpeg?raw=true",
+    "alt": "money heist",
+    "link": "https://www.youtube.com/embed/eS7tOeEPUqQ",
+    "section": "TV Shows",
+    "like": false
+  },
+  {
+    "src": "https://github.com/eliaschnitker/IMAGENES-UBICUOS.git/hannahmontana.webp?raw=true",
+    "alt": "cable girls",
+    "link": "https://www.youtube.com/embed/eJ1zjrkuBls",
     "section": "TV Shows",
     "like": false
   },
   {
     "src": "https://github.com/carlosavilae/Netflix-Clone/blob/master/img/p2.PNG?raw=true",
-    "alt": "",
-    "link": "https://www.youtube.com/embed/VVWH9jJLGkE",
+    "alt": "the 100",
+    "link": "https://www.youtube.com/embed/1T4P_ImXHcg",
     "section": "TV Shows",
     "like": false
   },
   {
     "src": "https://github.com/carlosavilae/Netflix-Clone/blob/master/img/p2.PNG?raw=true",
-    "alt": "",
-    "link": "https://www.youtube.com/embed/VVWH9jJLGkE",
+    "alt": "wednesday",
+    "link": "https://www.youtube.com/embed/FlOlA2q6LO8",
     "section": "TV Shows",
     "like": false
   },
   {
     "src": "https://github.com/carlosavilae/Netflix-Clone/blob/master/img/p2.PNG?raw=true",
-    "alt": "",
-    "link": "https://www.youtube.com/embed/VVWH9jJLGkE",
+    "alt": "riverdale",
+    "link": "https://www.youtube.com/embed/FrOJUrrHIak",
     "section": "TV Shows",
     "like": false
   },
   {
     "src": "https://github.com/carlosavilae/Netflix-Clone/blob/master/img/p2.PNG?raw=true",
-    "alt": "",
-    "link": "https://www.youtube.com/embed/VVWH9jJLGkE",
-    "section": "TV Shows",
-    "like": false
-  },
-  {
-    "src": "https://github.com/carlosavilae/Netflix-Clone/blob/master/img/p2.PNG?raw=true",
-    "alt": "",
-    "link": "https://www.youtube.com/embed/VVWH9jJLGkE",
-    "section": "TV Shows",
-    "like": false
-  },
-  {
-    "src": "https://github.com/carlosavilae/Netflix-Clone/blob/master/img/p2.PNG?raw=true",
-    "alt": "",
-    "link": "https://www.youtube.com/embed/VVWH9jJLGkE",
-    "section": "TV Shows",
-    "like": false
-  },
-  {
-    "src": "https://github.com/carlosavilae/Netflix-Clone/blob/master/img/p2.PNG?raw=true",
-    "alt": "",
-    "link": "https://www.youtube.com/embed/VVWH9jJLGkE",
-    "section": "TV Shows",
-    "like": false
-  },
-  {
-    "src": "https://github.com/carlosavilae/Netflix-Clone/blob/master/img/p2.PNG?raw=true",
-    "alt": "",
-    "link": "https://www.youtube.com/embed/VVWH9jJLGkE",
-    "section": "TV Shows",
-    "like": false
-  },
-  {
-    "src": "https://github.com/carlosavilae/Netflix-Clone/blob/master/img/p2.PNG?raw=true",
-    "alt": "",
-    "link": "https://www.youtube.com/embed/VVWH9jJLGkE",
-    "section": "TV Shows",
-    "like": false
-  },
-  {
-    "src": "https://github.com/carlosavilae/Netflix-Clone/blob/master/img/p2.PNG?raw=true",
-    "alt": "",
-    "link": "https://www.youtube.com/embed/VVWH9jJLGkE",
-    "section": "TV Shows",
-    "like": false
-  },
-  {
-    "src": "https://github.com/carlosavilae/Netflix-Clone/blob/master/img/p2.PNG?raw=true",
-    "alt": "",
-    "link": "https://www.youtube.com/embed/VVWH9jJLGkE",
+    "alt": "thecrown",
+    "link": "https://www.youtube.com/embed/3y-6iaveY6c",
     "section": "TV Shows",
     "like": false
   },
 
   {
     "src": "https://github.com/carlosavilae/Netflix-Clone/blob/master/img/p2.PNG?raw=true",
-    "alt": "",
-    "link": "https://www.youtube.com/embed/VVWH9jJLGkE",
+    "alt": "incomeproperty",
+    "link": "https://www.youtube.com/embed/_edS1crSr2Q",
     "section": "Blockbuster Action & Adventure",
     "like": false
   },
   {
     "src": "https://github.com/carlosavilae/Netflix-Clone/blob/master/img/p2.PNG?raw=true",
-    "alt": "",
-    "link": "https://www.youtube.com/embed/VVWH9jJLGkE",
+    "alt": "physics or chemistry",
+    "link": "https://www.youtube.com/embed/YtJ9uwqY1M4",
     "section": "Blockbuster Action & Adventure",
     "like": false
   },
   {
     "src": "https://github.com/carlosavilae/Netflix-Clone/blob/master/img/p2.PNG?raw=true",
-    "alt": "",
-    "link": "https://www.youtube.com/embed/VVWH9jJLGkE",
+    "alt": "the boarding school",
+    "link": "https://www.youtube.com/embed/pVtTweVOqLs",
     "section": "Blockbuster Action & Adventure",
     "like": false
   },
   {
     "src": "https://github.com/carlosavilae/Netflix-Clone/blob/master/img/p2.PNG?raw=true",
-    "alt": "",
-    "link": "https://www.youtube.com/embed/VVWH9jJLGkE",
+    "alt": "the boat",
+    "link": "https://www.youtube.com/embed/pVtTweVOqLs",
     "section": "Blockbuster Action & Adventure",
     "like": false
   },
   {
     "src": "https://github.com/carlosavilae/Netflix-Clone/blob/master/img/p2.PNG?raw=true",
-    "alt": "",
-    "link": "https://www.youtube.com/embed/VVWH9jJLGkE",
+    "alt": "witch",
+    "link": "https://www.youtube.com/embed/pVtTweVOqLs",
     "section": "Blockbuster Action & Adventure",
     "like": false
   },
   {
     "src": "https://github.com/carlosavilae/Netflix-Clone/blob/master/img/p2.PNG?raw=true",
-    "alt": "",
-    "link": "https://www.youtube.com/embed/VVWH9jJLGkE",
+    "alt": "you",
+    "link": "https://www.youtube.com/embed/pVtTweVOqLs",
     "section": "Blockbuster Action & Adventure",
     "like": false
   },
 
   {
     "src": "https://github.com/carlosavilae/Netflix-Clone/blob/master/img/p2.PNG?raw=true",
-    "alt": "",
-    "link": "https://www.youtube.com/embed/VVWH9jJLGkE",
+    "alt": "Once Upon a Time in Hollywood",
+    "link": "https://www.youtube.com/embed/pVtTweVOqLs",
     "section": "Netflix Originals",
     "like": false
   },
   {
     "src": "https://github.com/carlosavilae/Netflix-Clone/blob/master/img/p2.PNG?raw=true",
-    "alt": "",
-    "link": "https://www.youtube.com/embed/VVWH9jJLGkE",
+    "alt": "intouchables",
+    "link": "https://www.youtube.com/embed/pVtTweVOqLs",
     "section": "Netflix Originals",
     "like": false
   },
   {
     "src": "https://github.com/carlosavilae/Netflix-Clone/blob/master/img/p2.PNG?raw=true",
-    "alt": "",
-    "link": "https://www.youtube.com/embed/VVWH9jJLGkE",
+    "alt": "inception",
+    "link": "https://www.youtube.com/embed/pVtTweVOqLs",
     "section": "Netflix Originals",
     "like": false
   },
   {
     "src": "https://github.com/carlosavilae/Netflix-Clone/blob/master/img/p2.PNG?raw=true",
-    "alt": "",
-    "link": "https://www.youtube.com/embed/VVWH9jJLGkE",
+    "alt": "knives out",
+    "link": "https://www.youtube.com/embed/pVtTweVOqLs",
     "section": "Netflix Originals",
     "like": false
   },
   {
     "src": "https://github.com/carlosavilae/Netflix-Clone/blob/master/img/p2.PNG?raw=true",
-    "alt": "",
-    "link": "https://www.youtube.com/embed/VVWH9jJLGkE",
+    "alt": "mission impossible",
+    "link": "https://www.youtube.com/embed/pVtTweVOqLs",
     "section": "Netflix Originals",
     "like": false
   },
   {
     "src": "https://github.com/carlosavilae/Netflix-Clone/blob/master/img/p2.PNG?raw=true",
-    "alt": "",
-    "link": "https://www.youtube.com/embed/VVWH9jJLGkE",
+    "alt": "the whale",
+    "link": "https://www.youtube.com/embed/pVtTweVOqLs",
     "section": "Netflix Originals",
     "like": false
   }

@@ -7,6 +7,7 @@ const io = new Server(server);
 const path = require("path");
 
 app.use("/", express.static(path.join(__dirname, "www")));
+app.use("/", express.static(path.join(__dirname, "public")));
 
 io.on("connection", (socket) => {
   console.log(socket.id);
